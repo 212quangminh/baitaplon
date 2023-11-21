@@ -1,0 +1,28 @@
+{
+  "name": "myshop-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thach2001/Thach2001-B1910449_VoVanThach_CT449-04_DoAn-MyShop.git"
+  },
+  "author": "B1910449 Vo Van Thach",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thach2001/Thach2001-B1910449_VoVanThach_CT449-04_DoAn-MyShop/issues"
+  },
+  "homepage": "https://github.com/Thach2001/Thach2001-B1910449_VoVanThach_CT449-04_DoAn-MyShop#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongodb": "^4.11.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
